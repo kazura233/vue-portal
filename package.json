@@ -1,0 +1,18 @@
+{
+  "name": "vue-portal",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazura233/vue-portal.git"
+  },
+  "keywords": [],
+  "author": "kazura233",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kazura233/vue-portal/issues"
+  },
+  "homepage": "https://github.com/kazura233/vue-portal#readme"
+}
