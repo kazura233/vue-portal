@@ -19,7 +19,7 @@ export const createVue = function (Compo: any, mounted = false) {
 }
 
 export function createComponent(Compo: any, mounted: boolean): any
-export function createComponent(Compo: any, propsData: object, mounted: boolean): any
+export function createComponent(Compo: any, propsData?: object, mounted?: boolean): any
 export function createComponent(Compo: any, propsData = {}, mounted = false): any {
   if (propsData === true || propsData === false) {
     mounted = propsData as boolean
